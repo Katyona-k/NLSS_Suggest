@@ -12,7 +12,7 @@ def main(mm):
     global sf
     rv = randrange(0, len(sf)-1); cu = sf[rv]; fp = cu.split(' - '); main(mm) if len(cu)<1 else None
     (main(mm) if ('[01]' in fp[0]) else None) if (mm is 1) else None
-    g = fp[2].split(', '); bk(); fg = g[-1]; ts = fg[fg.find("["):fg.find("]")+1];print(''+z4+fp[0]+z5+fp[1])
+    g = fp[2].split(', '); bk(); fg = g[-1]; ts = fg[fg.find("["):fg.find("]")+1]; print(''+z4+fp[0]+z5+fp[1])
     for x in range(0, len(g)):
         p = [" "+str(x+1)+' - ']
         (p.append(g[x])) if (x<len(g)-1) else (
