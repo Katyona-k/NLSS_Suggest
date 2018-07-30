@@ -1,0 +1,642 @@
+[00] - (July 26, 2018) N (NL, RLS, CS w/ rob, LGW, Baer) - Enter the Gungeon, Dead by Daylight, Codenames
+[00] - (July 25, 2018) N (NL, RLS w/ rob, LGW, HCJ) - Overcooked 2, Wreckfest, Tower Unite Minigolf, Tower Unite Trivia
+[00] - (July 23, 2018) N (NL, RLS, JS, Hafu w/ rob, LGW) - Rock of Ages II, Mysterium, Skribbl.io
+[00] - (July 19, 2018) N (NL, RLS, LGW w/ Baer) - Enter the Gungeon, Skribbl.io, London 2012
+[00] - (July 18, 2018) N (NL, RLS, LGW w/ Kory, Baer, HCJ) - Enter the Gungeon, Wreckfest, Codenames
+[00] - (July 16, 2018) (NL, JS w/ rob, LGW, Baer) - Hitman (late intro), Tower Unite Minigolf, Tower Unite Trivia, Ball Race, Jackbox: Trivia Murder Party
+[00] - (July 12, 2018) part 1 part 2 N (NL, RLS, rob, LGW w/ Kory, Baer) - Super Mega Baseball 2, Wreckfest, Jackbox: Quiplash
+[00] - (July 11, 2018) N (NL, RLS, rob, LGW w/ Kory) - Slap City, GoldenEye: Source, Wreckfest
+[00] - (July 9, 2018) N (NL, RLS, rob, Hafu w/ LGW, HCJ) - Mount Your Friends 3D, Skribbl.io with LGW, Codenames with LGW, Justin
+[00] - (July 5, 2018) N (NL, RLS, rob, CS w/ LGW) - Ultimate Chicken Horse, Party Panic, Jackbox: Quiplash
+[00] - (July 4, 2018) N (NL, RLS, LGW w/ MALF) - Mount Your Friends 3D, GeoGuessr, Super Mega Baseball 2 with MALF
+[00] - (July 2, 2018) N (NL, RLS, JS, Hafu w/ LGW, rob, Baer, HCJ) - Tower Unite Minigolf, Skribbl.io, Codenames
+[00] - NoNLSS (June 25, 2018) (RLS, CS, LGW, Baer, Kory, HCJ, Sinow) - Codenames, Codenames, Codenames
+[00] - (June 21, 2018) N (NL, RLS, CS, rob w/ LGW, Baer, HCJ) - Super Mega Baseball 2, Skribbl.io, Jackbox: Quiplash
+[00] - (June 20, 2018) N (NL, RLS, rob, LGW w/ K8, Kory, Baer) - Mount Your Friends 3D, Ultimate Chicken Horse, Codenames
+[00] - (June 18, 2018) (NL, LGW, HCJ w/ Hafu, Kory, Dan) - Tower Unite Minigolf (eventually), Realm Royale, Codenames
+[00] - (June 14, 2018) (NL, CS, LGW w/ MALF, Kory) - Super Mega Baseball II, Realm Royale, Codenames
+[00] - (June 13, 2018) N (NL, RLS, rob, CS w/ Baer) - Tricky Towers, GoldenEye: Source, Jackbox: Quiplash
+[00] - (June 11, 2018) N (NL, RLS, Hafu w/ rob, LGW) - Realm Royale, Codenames with rob and austin, skribbl.io
+[00] - (June 6, 2018) N (NL, RLS, rob, LGW w/ Baer) - Mount Your Friends 3D, Mysterium, Jackbox: Quiplash
+[00] - (June 4, 2018) N (NL, RLS, JS, Hafu w/ rob, LGW) - Tower Unite Golf and Little Crusaders, Codenames, Skribbl.io
+[00] - (May 31, 2018) N (NL, RLS, CS w/ rob, MALF) - Wizard of Legend, Headsnatchers, Codenames
+[00] - (May 30, 2018) N (NL, RLS w/ rob, LGW) - Raft, Golf With Your Friends, Skribbl.io
+[00] - (May 28, 2018) N (NL, RLS, JS w/ MALF, rob, LGW) - Ultimate Chicken Horse, Codenames, Jackbox: Quiplash
+[00] - (May 24, 2018) N (NL, RLS, rob, LGW w/ HCJ, Kory) - Super Mega Baseball 2, GoldenEye: Source, London 2012
+[00] - (May 21, 2018) N (NL, RLS, JS, Hafu w/ MALF, rob) - Rock of Ages II, Codenames, Skribbl.io
+[00] - (May 17, 2018) N (NL, RLS, CS, rob) - Super Mega Baseball 2, Sonic & All-Stars Racing Transformed, Skribbl.io
+[00] - (May 16, 2018) N (NL, RLS, w/ Hafu, rob, LGW, Baer) - Wizard of Legend, Golf With Your Friends, Quiplash
+[00] - (May 14, 2018) N (NL, RLS, JS, rob w/ MALF, LGW) - Super Mega Baseball 2, Move or Die, Codenames
+[00] - (May 10, 2018) N (NL, RLS, rob, LGW) - Ultimate Chicken Horse, GoldenEye: Source, Skribbl.io
+[00] - (May 9, 2018) part 1 part 2 N (NL, RLS, rob, LGW) - Mount Your Friends 3D, GeoGuessr, Jackbox: Guesspionage
+[00] - (May 7, 2018) N (NL, RLS, JS, Hafu, w/ MALF) - Tower Unite Golf, Codenames, Mysterium
+[00] - (May 3, 2018) N (NL, RLS, CS w/ MALF, Baer) - Isaac: Afterbirth+, Super Mega Baseball 2, Jackbox: Quiplash
+[00] - (May 2, 2018) (NL w/ MALF, JS, Dan) - Isaac: Afterbirth+, Scrap Mechanic, Super Mega Baseball 2
+[00] - (April 30, 2018) (NL, RLS, JS, Hafu) - Golf With Your Friends, Murderous Pursuits, Skribbl.io
+[00] - (April 26, 2018) N (NL, RLS, rob w/ LGW) - Getting Over It, ShellShock Live, Skribl.io
+[00] - (April 25, 2018) N (NL, RLS, rob w/ LGW, Baer, HCJ) - Mount Your Friends 3D, Who Wants to be a Millionaire?, Jackbox: Quiplash
+[00] - (April 23, 2018) N (NL, RLS, JS, Hafu) - Golf With Your Friends, Last Will, Mysterium
+[00] - (April 19, 2018) N (NL, RLS, rob w/ K8, LGW) - Descenders, GeoGuessr, Mysterium
+[00] - (April 18, 2018) N (NL, RLS, rob w/ Kory, HCJ) - Getting Over It, GoldenEye: Source, Skribbl.io
+[00] - (April 16, 2018) N (NL, RLS, JS, Hafu w/ K8) - Mount Your Friends 3D, Golf With Your Friends, Mysterium
+[00] - (April 12, 2018) On Twitch N (NL, RLS w/ MALF, rob, LGW, Baer) - Descenders, Discord problems, Golf With Your Friends, Protobowl
+[00] - (April 11, 2018) (NL, RLS, rob w/ LGW) - Isaac: Afterbirth+, GeoGuessr, Ultimate Chicken Horse
+[00] - (April 9, 2018) (NL, JS, MALF w/ rob, LGW) - Ben and Ed - Bloody Party, Scrap Mechanic, Jackbox: Quiplash
+[00] - (April 5, 2018) Bootleg NL View N (NL, RLS, CS, rob) - Fortnight Battle Royale, Tabletop Simulator: Settlers of Catan
+[00] - (April 4, 2018) N (NL, RLS, rob) - Infinite Minigolf, Mount Your Friends 3D, Vermintide II
+[00] - (April 2, 2018) Bootleg NL View Part 1 Part 2 N (NL, RLS w/ Hafu, MALF, LGW) - Pool Nation, Tower Unite Golf, Use Your Words 
+[00] - (March 29, 2018) N (NL, RLS, CS w/ rob, LGW) - Golfing Over It, Dead By Daylight, Pinturillo
+[00] - (March 28, 2018) N (NL, RLS w/ rob, LGW, HCJ) - Synthetik, GeoGuessr, London 2012
+[00] - (March 26, 2018) N (NL, RLS, JS, rob w/ Hafu) - Tricky Towers, Tower Unite Golf, Gang Beasts
+[00] - (March 22, 2018) N (NL, RLS, rob w/ LGW) - Mount Your Friends 3D, Golf With Your Friends, Pinturillo
+[00] - (March 21, 2018) N (NL, RLS, rob w/ LGW) - Hold Fast, Vermintide II, Tabletop Simulator: The Game of Life
+[00] - (March 19, 2018) N (NL, RLS, JS w/ Hafu, MALF) - Ben and Ed - Blood Party, Last Will, Jackbox: Survive the Internet, Fibbage
+[00] - (March 15, 2018) (NL, rob, CS w/ Kory) - Heroes of Hammerwatch, Sonic All-Stars Racing Transformed, Pinturillo
+[00] - (March 14, 2018) N (NL, RLS, rob) - Spelunky, Who Wants to Be a Millionaire?, Party Panic
+[00] - (March 12, 2018) (NL, rob, JS, Hafu) - Golf With Your Friends, GeoGuessr, Jackbox: Murder Trivia Party
+[00] - (March 8, 2018) N (NL, RLS, rob, CS) - Trapper's Delight, Golf With Your Friends, Vermintide 2
+[00] - (March 7, 2018) N (NL, RLS, rob, LGW) - Jedi Academy kinda, Mount Your Friends 3D, GeoGuessr, Fibbage, Quiplash
+[00] - (March 5, 2018) N on Twitch (NL, RLS, JS, Hafu) - Human Fall Flat, Golf With Your Friends, Pinturillo
+[00] - (March 1, 2018) N (NL, RLS, CS w/ rob) - Celeste, Worms WMD, Worms Revolution, Mount Your Friends 3D
+[00] - (February 28, 2018) part two N (NL, RLS, rob w/ Baer, LGW) - Getting Over It, Deep Rock Galactic, Quiplash 
+[00] - (February 15, 2018) N (NL, RLS w/ rob, LGW) - Descenders, Golf With Your Friends, Pinturillo
+[00] - (February 14, 2018) (NL, rob, LGW, HCJ) - Holdfast, Tower Unite golf and trivia, Fibbage
+[00] - (February 12, 2018) (Hafu, NL, RLS, JS) - Rock of Ages II, Geoguessr, Mount Your Friends 3D
+[00] - (February 8, 2018) N (NL, RLS, CS w/ rob) - Slay The Spire, Laser League, Mount Your Friends 3D
+[00] - (February 7, 2018) N (NL, RLS, rob w/ LGW) - Getting Over It, Tabletop Simulator: Funemployed, Quiplash
+[00] - (February 5, 2018) N (Hafu, NL, RLS, JS) - Rock of Ages II, Golf With Your Friends, Guesspionage, 
+[00] - (February 1, 2018) N (NL, RLS, CS w/ rob) - Afterbirth+, Geoguessr, Party Panic
+[00] - (January 31, 2018) N (NL, RLS, rob w/ LGW) - Passpartout, Strikers Edge, Sonic and All Stars Racing Transformed
+[00] - (January 29, 2018) N (Hafu, NL, RLS, JS w/ rob) - Human Fall Flat, Golf With Your Friends, Pinturillo
+[00] - (January 25, 2018) (NL, RLS, HCJ w/ rob, Baer) - Slay The Spire, Holdfast, London 2012
+[00] - (January 24, 2018) N (NL, RLS w/ rob, LGW) - SOS, Geoguessr, Ultimate Chicken Horse
+[00] - (January 22, 2018) N (Hafu, NL, RLS, JS w/ rob, LGW) - Human Fall Flat, Tower Unite Golf, Typing, Trivia, Fibbage, Quiplash
+[00] - (January 18, 2018) N (NL, RLS, CS w/ rob, LGW) - Afterbirth+, Full Metal Furies, Fibbage, Quiplash
+[00] - (January 17, 2018) N (NL, RLS, rob, LGW) - Star Wars Jedi Academy MB2, Tabletop Simulator Funemployed, Golf It
+[00] - (January 15, 2018) N (NL, RLS, rob) - Getting Over It, Tricky Towers, Viscera Cleanup Detail
+[00] - (January 11, 2018) N (NL, RLS w/ rob, LGW) - Nidhogg 2, YLands, Pinturillo
+[00] - (January 10, 2018) N (NL, RLS, rob, LGW) - Ultimate Chicken Horse, GeoGuessr, Quiplash
+[00] - (January 8, 2018) (NL, JS, rob, LGW) - Hold Fast, Golf With Your Friends, Armello
+[00] - (January 4, 2018) (NL, rob, LGW w/ Baer) - Hold Fast, Tower Unite Trivia, Fibbage, Quiplash
+[00] - (January 3, 2018) (NL, rob, LGW w/ Kory) - Star Wars Jedi Academy, Tower Unite Golf, Armello
+[00] - (December 28, 2017) (NL, rob, LGW) - Afterbirth+, Ylands, Armello
+[00] - (December 27, 2017) (NL, rob, LGW w/ Kory) - Holdfast, GeoGuessr, Trivia Murder Party
+[00] - (December 21, 2017) part 1 part 2 (NL, rob, LGW w/ JS) - Holdfast, Sonic All Stars Racing Transformed, Supraball briefly, Tower Unite Trivia
+[00] - (December 20, 2017) (NL, rob, LGW, HCJ) - Geoguessr, London 2012, Survive the Internet, Monster Seeking Monster, Fibbage
+[00] - (December 18, 2017) (NL, JS, MALF w/ LGW, HCJ, Baer) - Hitman, Golf It, Quiplash
+[00] - (December 14, 2017) N (NL, RLS, CS w/ LGW, Baer, MALF) - Afterbirth, Ultimate Chicken Horse, Fibbage
+[00] - (December 13, 2017) (NL, RLS, rob w/ Baer, MALF) - Geoguessr, Golf It, Supraball
+[00] - (December 11, 2017) N (NL, RLS, JS, rob w/ MALF, K8) - Human Fall Flat, Hand Simulator, Moar Hand Simulator
+[00] - (December 7,2017) N (NL, RLS, CS w/ rob, Baer) - Slay the Spire, Worms Revolution, Pinturillo
+[00] - (December 6, 2017) N (NL, RLS, rob w/ LGW) - Afterbirth+, Golf With Your Friends, Quiplash
+[00] - (November 27, 2017) N (NL, RLS, JS, rob) - Tooth and Tail, UCH, HFF
+[00] - (November 23, 2017) N (NL, RLS, rob w/ JS, LGW) - Getting Over It, JB: Fibbage, Quiplash, Pinturillo
+[00] - (November 22, 2017) N (NL, RLS, rob, w/ JS, MALF, Baer) - Geoguessr, Goldeneye: Source, Supraball
+[00] - (November 20, 2017) N (NL, RLS, JS, rob w/ LGW) - HFF, Ben and Ed: Blood Party, Golf With Your Friends
+[00] - (November 16, 2017) (NL, rob, LGW, Sin) - Geoguessr, UCH, Pinturillo
+[00] - (November 15, 2017) (NL, rob, LGW w/ Baer, Kory, MALF) - Geoguessr, Golf It, JB: Quiplash
+[00] - (November 13, 2017) N (NL, RLS, JS, rob w/ LGW, Sin HCJ) - HFF, More HFF, JB: Survive the Internet, Fibbage, Monster Seeking Monster
+[00] - (November 8, 2017) N (NL, RLS, rob w/ LGW, Baer, Sin, HCJ) - HFF, More HFF JB: Monster Seeking Monster, Fibbage
+[00] - (November 6, 2017) N (NL, RLS, JS, rob w/ LGW) - Getting Over It, HFF London 2012
+[00] - (November 2, 2017) (NL, RLS, rob w/ Dan, LGW, HCJ) - Fortnite Battle Royale, Geoguessr, JB Party Pack 4
+[00] - (November 1, 2017) N (NL, RLS w/ rob, MALF) - Getting Over It, Spelunker Party, Geoguessr
+[00] - (October 30, 2017) N (NL, RLS, JS w/ MALF, rob, LGW) - Spelunky, Tower Unite Golf, JB Party Pack 4
+[00] - (October 26, 2017) N (NL, RLS, rob w/ LGW, Kory) - Fortnite Battle Royale, Goldeneye Source, JB Party Pack/Getting Over It, Pinturillo
+[00] - (October 25, 2017) N (NL, RLS, rob w/ LGW, Baer, TB) - Fortnite Battle Royale, Golf With Your Friends, Jerkbox Party Pack 4
+[00] - (October 19, 2017) (NL w/ rob, LGW, MALF, Sin) - Geoguessr, Double Jacky
+[00] - (October 18, 2017) (NL w/ rob, Sin, K8, MALF, Dan) - Geoguessr, Double Jacky
+[00] - (October 16, 2017) N (NL, RLS, JS, rob w/ Sin, Baer) - Ben and Ed's Blood Party, Move or Die, Guesspionage
+[00] - (October 12, 2017) N (NL, RLS, rob w/ Baer) - Getting Over It, Passpartout, Tower Untied
+[00] - (October 11, 2017) N (NL, RLS, rob, LGW w/ Baer, HCJ) - Geoguesser, Goldeneye Source, Tower Unite, Quiplash
+[00] - (October 9, 2017) N (NL, RLS, JS w/ rob, Baer, Sin, Kory) - Getting Over It, Rock Of Ages 2, Quiplash
+[00] - (October 4, 2017) N (NL, RLS w/ rob, LGW) - Cuphead, Getting Over It, Geoguessr
+[00] - (October 2, 2017) N (NL, RLS, JS w/ rob, Baer) - Getting Over It, Arrow Heads, Golf It
+[00] - (September 28, 2017) (NL, RLS, LGW, rob w/ Sin, Baer) - Geoguessr, Tower Unite, Pinturillo
+[00] - (September 27, 2017) N (NL, RLS w/ rob, LGW, Baer, Sin, TB) - Nidhogg 2, Ben and Ed's Blood Party, Quiplash
+[00] - (September 25, 2017) N (NL, RLS, JS, rob w/ Baer, Kory) - Rock of Ages 2, Geoguessr, Golf With Your Friends
+[00] - (September 20, 2017) (NL, rob, LGW, HCJ w/ Baer, Kory) - Geoguessr, Tower Unite, Quiplash
+[00] - (September 18, 2017) (NL, RLS, rob, LGW w/ JS, Kory, Baer, HCJ) - Bill and Ted's Excellent Blood Adventure, Goldeneye: Source, London 20/20 Hindsight
+[00] - (September 13, 2017), N (NL, RLS, rob, LGW w/ Kory, Baer, TB) - Tooth and Tail, Sonic and All Stars Racing Transformed, Quiplash
+[00] - (September 11, 2017) N (NL, RLS, JS, rob w/ LGW, Kory, Baer) - Rock of Ages 2, Goldeneye Source, Golf It
+[00] - (September 7, 2017) N (NL, RLS, rob w/ LGW) - Geoguessr, Rock of Ages 2, Starcraft Arcade
+[00] - (September 6, 2017) N (NL, RLS, rob, LGW w/ Baer) - Afterbirth+, Golf It, Quiplash
+[00] - (August 30, 2017) (NL, RLS, rob, LGW) - Tower Unite, Ball 3D Soccer Online, Shellshock Live
+[00] - (August 28, 2017) N (NL, RLS w/ rob, LGW, JS, Baer) - Rock of Ages 2, Golf It, Quiplash (and Spelunky)
+[00] - (August 23, 2017) N (NL, RLS, rob w/ Baer, LGW, HCJ) - Absolver, Golf It, Quiplash
+[00] - (August 21, 2017) N (NL, RLS, JS, rob) - Fire Pro Wrestling World, UCH, Blood Party
+[00] - (August 17, 2017) N (NL w/ Sin, RLS, LGW, HCJ, Baer) - Geoguessr, Golf It, Quiplash
+[00] - (August 16, 2017) N (NL, RLS w/ rob, Baer, LGW, Dan) - Nidhogg 2, Speedrunners, Pinturillo
+[00] - (August 14, 2017) (NL, JS, MALF, LGW w/ Baer, HCJ) - Hitman, Ben & Edd Blood Party, London 2012
+[00] - (August 10, 2017) N (NL, RLS, rob, LGW) - UCH, Tower Unite, Who Wants To Be A Millionaire, Super Hexagon
+[00] - (August 7, 2017) N (NL, RLS, JS, rob w/ Baer) - Passpartout, Witch It, Quiplash
+[00] - (August 2, 2017) N (NL, RLS, LGW w/ Baer, Kory) - Tricky Towers, Sonic and All Stars Racing Transformed, London 2012
+[00] - (July 31, 2017) N (NL, RLS, JS, rob w/ Sin, Baer, TB) - Ben and Ed Blood Party, Ball 3D: Soccer Online, Quiplash
+[00] - (July 26, 2017) N (NL, RLS w/ LGW, Sin, Baer, Dan) - Cannon Brawl, Goldeneye: Source, Ball 3D: Soccer Online
+[00] - (July 24, 2017) N (NL, RLS, JS w/ LGW) - Hitman, Ben & Ed: Blood Party, Tower Unite
+[00] - (July 19, 2017) N (NL, RLS, LGW w/ MALF, rob, Baer) - Ben and Edd's Blood Party, London 2012, Quiplash
+[00] - (July 17, 2017) (NL, RLS, JS) - Hitman, Passpartout, Serious Sam Bogus Detour and Tower Unite
+[00] - (July 13, 2017) N (NL, RLS, rob w/ LGW, Baer) - Passpartout, UCH, Tower Unite
+[00] - (July 12, 2017) N (NL, RLS, rob w/ Baer) - The End Is Nigh, Passpartout, Quiplash
+[00] - (July 10, 2017) part 01-2 N (NL, RLS, JS w/ rob, Sin) - Hitman, Tower Unite, Guesspionage
+[00] - (July 5, 2017) N (NL, RLS, rob w/ LGW, Baer) - Afterbirth+, Sonic All Stars Racing Transformed, Pinturillo
+[00] - (July 3, 2017) N (NL, RLS, rob w/ Sin, LGW, Baer) - Passpartout: The Starving Artist, Redout, Quiplash
+[00] - (June 21, 2017) N (NL, RLS, rob w/ LGW, Baer) - Bloody Trapland 2, Passpartout: The Starving Artist, London 2012
+[00] - (June 19, 2017) N (NL, RLS, JS w/ rob, Kate, Baer) - Hitman, Witch It, FF
+[00] - (June 12, 2017) N (NL, RLS, JS, MALF) - Golf It, Golf With Your Friends, Vertiginous Golf
+[00] - (June 8, 2017) N (NL, RLS w/ rob, MALF, Baer) - Afterbirth+, Gang Beasts, Goldeneye Source, Golf With Your Friends
+[00] - (June 7, 2017) N (NL, RLS, rob w/ Dan, Baer, Sin, Blueman) - Monolith, UCH, Quiplash
+[00] - (June 5, 2017) N (NL, RLS, JS w/ MALF) - Hitman, Speedrunners, Goldeneye Source
+[00] - (May 31, 2017) (NL, rob, LGW, Baer) - Battlegrounds, Golf With Your Friends, Quiplash
+[00] - (May 29, 2017) N (NL, RLS, JS w/ rob, MALF) - Hitman, Helldivers, Goldeneye Source
+[00] - (May 25, 2017) N (NL, RLS, rob w/ MALF, Baer) - Dead Cells, UCH, Pinturillo
+[00] - (May 24, 2017) N (NL, RLS, rob, LGW w/ MALF, Dan) - Afterbirth+, Goldeneye Source, Golf it, Golf With (Your) Friends
+[00] - (May 22, 2017) N (NL, RLS, JS w/ MALF) - Hitman, Half-Dead, Worms Rev
+[00] - (May 17, 2017) N (NL, RLS w/ Dan, LGW) - Dead Cells, UCH, Golf With (Your) Friends
+[00] - (May 15, 2017) N (NL, RLS, JS w/ rob, LGW, MALF) - Hitman, WWE 2k016, Quiplash
+[00] - (May 11, 2017) (NL, RLS, rob, Baer w/ LGW, Sin) - Afterbirth+, Lethal League, Quiplash
+[00] - (May 10, 2017) (NL, RLS, rob w/ Baer, LGW, Dan) - Afterbirth+, Golf With Your Friends, London 2012
+[00] - (May 8, 2017) (NL, RLS w/ rob, MALF) - Strafe, Hitman, FF Decades
+[00] - (May 4, 2017) N (NL, RLS, rob w/ MALF, Baer) - Afterbirth+, Sonic All Stars Racing Transformed, Quiplash
+[00] - (May 3, 2017) N (NL, RLS, rob w/ MALF) - Tumbleseed, UCH, FF Decades
+[00] - (May 1, 2017) N (NL, RLS, JS w/ rob, MALF) - Hitman, Golf With Your Friends, Quiplash
+[00] - (April 27, 2017) N (NL, RLS w/ JS, MALF, Baer, LGW, Kate) - SpyParty, FF (Nick plays Shadow Warrior 2), Pinturillo
+[00] - (April 26, 2017) N (NL, RLS, rob, LGW w/ Baer) - Golf With Your Friends, Gang Beasts, Quiplash
+[00] - (April 24, 2017) (NL, RLS, rob, LGW w/ Baer) - UCH, Who Wants To Be a Millionaire, London 2012
+[00] - (April 19, 2017) N (NL, RLS, LGW w/ rob, Baer) - Afterbirth+, Golf It, Quiplash
+[00] - (April 5, 2017) N (NL, RLS, rob w/ Baer) - Afterbirth+, Golf With (Your) Friends, Guesspionage
+[00] - (April 3, 2017) (NL, JS w/ MALF, LGW, rob, Baer, Sin) - Hitman Roulette, Battlegrounds, Quiplash
+[00] - (March 29, 2017) N (NL, RLS, rob, LGW w/ Dan) - UCH, Move or Die, RedOut
+[00] - (March 27, 2017) N (NL, RLS, JS w/ rob) - Afterbirth+, Hitman Roulette, PlayerUnknown's Battlegrounds
+[00] - (March 22, 2017) Nick Video (NL, RLS, LGW w/ MALF, Baer) - Afterbirth+, We Need to Go Deeper, Pinturillo
+[00] - (March 20, 2017) N (NL, RLS, LGW w/ Baer, rob) - Afterbirth+, Streets of Rogue, Quiplash
+[00] - (March 15, 2017) (NL, RLS, LGW w/ Kate) - Afterbirth+, Golf It, Tricky Towers
+[00] - (March 8, 2017) N (NL, RLS, rob w/ LGW, Baer, Sin) - Afterbirth+, Gang Beasts, Pinturillo
+[00] - (March 6, 2017) N (NL, RLS, JS w/ LGW, Baer, Sin) - Afterbirth+, Sonic All Stars Racing Transformed, Quiplash
+[00] - (March 1, 2017) (NL, rob, LGW w/ MALF, Baer) - Afterbirth+, Quiplash, London 2012
+[00] - (February 27, 2017) N (NL, RLS, JS w/ rob, LGW, Baer) - Afterbirth+, UCH, Sonic All Stars Racing Transformed
+[00] - (February 23, 2017) N (NL, RLS, MALF w/ LGW, Baer) - Afterbirth+, Disc Jam, Pinturillo
+[00] - (February 22, 2017) N (NL, RLS, rob, LGW w/ Dan) - Afterbirth+, Golf It, For Honor
+[00] - (February 20, 2017) N (NL, RLS, JS, LGW w/ rob, Baer, Sin) - Afterbirth+, Duck Game, Quiplash
+[00] - (February 16, 2017) N (NL, RLS, LGW w/ rob, Baer, MALF) - Afterbirth+, NLSS mod, Quiplash, Pinturillo
+[00] - (February 15, 2017) N (NL, RLS, rob, LGW w/ Mathas) - UCH, Golf It, For Honor
+[00] - (February 13, 2017) (NL, JS w/ rob, LGW) - Afterbirth+, Scribblenauts, Invisigun Heroes
+[00] - (February 9, 2017) N (NL, RLS, rob, LGW w/ MALF, Baer) - Afterbirth+, For Honor, Quiplash
+[00] - (February 6, 2017) N (NL, RLS, JS w/ MALF) - Afterbirth+, Disc Jam, Gang Beasts [Goldman!]
+[00] - (February 2, 2017) N (NL, RLS, rob, LGW w/ Baer, MALF) - Afterbirth+, Sonic All Stars Racing Transformed, Pinturillo
+[00] - (February 1, 2017) N (NL, RLS, rob, LGW) - Afterbirth+, UCH, Golf With (Your) Friends
+[00] - (January 30, 2017) (NL, JS, MALF, rob w/ Sin) - Afterbirth+, Scribblenauts, Quiplash
+[00] - (January 27, 2017) (NL, MALF, rob, LGW) - Enter the Gungeon, Disc Jam, Pinturillo
+[00] - (January 25, 2017) (NL, rob, LGW w/ MALF, Dan, Sin, Kate) - Afterbirth+, UCH, Quiplash
+[00] - (January 23, 2017) part 01-2 (NL, JS, MALF) - Afterbirth+, Scribblenauts attempt, Who Wants To Be A Millionaire, Space Beast Terror Fright, (continued)
+[00] - (January 19, 2017) (NL, MALF, rob, LGW) - Afterbirth+, Who Wants to be a Millionaire, Golf With (Your) Friends
+[00] - (January 18, 2017) (NL, rob, LGW w/ MALF) - Afterbirth+, UCH, Pinturillo
+[00] - (January 16, 2017) part 01-2 (NL, JS, MALF w/ LGW, rob, Baer, Sin, Dan) - Afterbirth+, Disc Jam, Trivia Murder Party, Guesspionage, Quiplash Continued
+[00] - (January 12, 2017) N (NL, RLS, MALF w/ LGW, Crendor) - Afterbirth+, Dead By Daylight, Quiplash
+[00] - (January 11, 2017) N (NL, RLS w/ rob, LGW, Dan) - Afterbirth+, Disc Jam, Gang Beasts
+[00] - (January 9, 2017) N (NL, RLS, JS w/ Baer, rob, LGW) - Afterbirth+ (Josh name mod), Disc Jam, London 2012
+[00] - (January 5, 2017) (NL, RLS, rob w/ MALF, Baer, rob) - Afterbirth+, Gang Beasts, Quiplash
+[00] - (January 4, 2017) part 01-2 N (NL, RLS, rob w/ MALF, LGW) - Afterbirth+, RedOut, Pinturillo
+[00] - (January 2, 2017) N (NL, RLS, JS w/ LGW) - Antibirth, Hearthstone, Space Beast Terror Fright, Duck Game
+[00] - (December 29, 2016) N (NL, RLS, LGW w/ rob, Baer, JS) - Antibirth, Hearthstone, UCH, Quiplash
+[00] - (December 28, 2016) N (NL, RLS, LGW w/ rob, Baer) - Antibirth, Hearthstone, Guesspionage, Pinturillo
+[00] - (December 26, 2016) N (NL, RLS, JS w/ rob, Sin) - Antibirth, Gang Beasts, Quiplash
+[00] - (December 22, 2016) part 01-2 part 3 (NL, LGW w/ Kate) - Antibirth, Gang Beasts, H01Z01 King of the Kill [Bootleg]
+[00] - (December 19, 2016) (NL, RLS, JS, rob w/ LGW) - UCH, Astroneer, H01Z01 King of the Kill
+[00] - (December 15, 2016) N (NL, RLS, MALF, rob w/ Kate, LGW) - UCH, H01Z01 King of the Kill,Quiplash
+[00] - (December 12, 2016) N (NL, RLS, JS, LGW) - Tricky Towers, UCH, Duck Game
+[00] - (December 8, 2016) (NL, RLS, MALF, rob w/ LGW) - UCH, Speedrunners, Pinturillo
+[00] - (December 7, 2016) (NL, RLS, rob, LGW w/ MALF) - Afterbirth, Tumble Seed, Tricky Towers, London 2012
+[00] - (December 6, 2016) N (NL, RLS, MALF, LGW w/ rob) - UCH, Move or Die, Quiplash
+[00] - (December 5, 2016) N (NL, RLS, JS, rob w/ LGW, Baer) - UCH, Bombernauts, Golf With (Your) Friends
+[00] - (November 30, 2016) N (NL, RLS, rob, LGW) - UCH, Gang Beasts, Duck Games
+[00] - (November 28, 2016) (NL, RLS, rob, LGW w/ Baer) - Tricky Towers, Dead By Daylight, Quiplash
+[00] - (November 24, 2016) (NL, MALF, rob, LGW) - UCH, London 2012, Keep Talking and Nobody Explodes
+[00] - (November 21, 2016) N (NL, RLS, rob, LGW w/ Baer, Sin) - UCH, Gang Beasts, Golf With (Your) Friends
+[00] - (November 17, 2016) N (NL, RLS, MALF, rob w/ Baer, LGW) - UCH, Runbow, Quiplash 2
+[00] - (November 14, 2016) (NL, RLS, JS, rob w/ LGW, BRex) - UCH, Quiplash, Rocket League
+[00] - (November 10, 2016) N (NL, RLS, rob, LGW w/ JS, MALF) - UCH, The Culling, Pinturillo
+[00] - (November 9, 2016) (NL, JS, MALF, rob, LGW) - UCH, London 2012, Quiplash
+[00] - (November 7, 2016) N (NL, RLS, JS, LGW) - UCH, Gang Beasts, Duck Game
+[00] - (November 3, 2016) N (NL, RLS w/ rob, LGW) - UCH, Goofball Goals, Gang Beasts
+[00] - (November 2, 2016) N (NL, RLS w/ MALF, rob, LGW, Dan) - Afterbirth, Speedrunners, Quiplash
+[00] - (October 31, 2016) N (NL, RLS, JS, Sin w/ rob, LGW) - UCH, Golf With Your Friends, The Culling
+[00] - (October 27, 2016) N (NL, RLS, MALF w/ LGW, rob) - Afterbirth, Tricky Towers, Pinturillo, London 2012
+[00] - (October 24, 2016) N (NL, RLS, JS, LGW w/ rob, Baer) - UCH, Who's Your Daddy, Murder Trivia Party, Keep Talking and No One Explodes
+[00] - (October 20, 2016) N (NL, RLS, MALF w/ rob, Baer, LGW) - Afterbirth, Guesspionage, Trivia Murder Party, Golf With Your Friends
+[00] - (October 17, 2016) N (NL, RLS, JS, MALF w/ rob, LGW, Baer) - UCH, Guesspionage, Quiplash 2, More Guesspionage
+[00] - (October 13, 2016) N (NL, RLS w/ rob, LGW) - Afterbirth, SpyParty, Worms W.M.D.
+[00] - (October 10, 2016) N (NL, RLS, JS, rob w/ LGW, GhostBill) - Shadow Warrior 2, Golf with Your Friends, UCH
+[00] - (October 6, 2016) N (NL, RLS, MALF, LGW w/ rob, Baer) - UCH, London 2012, Pinturillo
+[00] - (October 5, 2016) N (NL, RLS, rob, LGW w/ Baer, Sin) - Tricky Towers, UCH, Quiplash
+[00] - (October 3, 2016) N (NL, RLS, JS w/ rob) - Afterbirth, Viking Squad, UCH
+[00] - (September 29, 2016) N (NL, RLS, rob, LGW) - UCH, Tricky Towers, ShellShock Live
+[00] - (September 26, 2016) N (NL, RLS, JS w/ rob, Kate) - Afterbirth, UCH, Tricky Towers
+[00] - (September 22, 2016) N (NL, RLS, MALF w/ rob, LGW) - Afterbirth, Golf With (Your) Friends, Quiplash
+[00] - (September 12, 2016) N (NL, RLS, JS w/ MALF, rob, LGW) - Afterbirth, London 2012, Pinturillo
+[00] - (September 10, 2016) N (NL, RLS, MALF w/ rob, Baer) - Afterbirth, Rocket League
+[00] - (September 8, 2016) (NL, RLS, MALF w/ alpacapatrol, LGW, Sin) - Afterbirth, Dead By Daylight, Rocket League
+[00] - (September 7, 2016) (NL w/ Sin, MALF, LGW, Baer, Dan, rob) - Geoguessr, Quiplash, Golf With Friends [Solo]
+[00] - (August 31, 2016) N (NL, RLS w/ rob, LGW, Dan) - Afterbirth, Worms WMD, Pinturillo
+[00] - (August 29, 2016) N (NL, RLS, JS w/ rob, LGW) - Half Dead, WWE 2K016, London 2012
+[00] - (August 25, 2016) N (NL, RLS w/ rob, MALF, LGW) - Afterbirth, Goldeneye Source, Quiplash
+[00] - (August 24, 2016) (NL, MALF w/ rob, LGW, dan) - GeoGuessr, Monsters and Monocles, London 2012
+[00] - (August 22, 2016) (NL, MALF w/ rob, LGW) - Afterbirth, GeoGuessr, Quiplash
+[00] - (August 18, 2016) N (NL, RLS w/ JS, MALF, rob, LGW) - Afterbirth, Worms WMD, London 2012
+[00] - (August 15, 2016) part 01-2 N (NL, RLS, JS w/ rob, Baer, LGW) - Afterbirth, Dead By Daylight, Golf With Friends, (continued)
+[00] - (August 10, 2016) N (NL, RLS w/ rob, LGW) - Afterbirth, Worms W.M.D., Pinturillo [Hard On Hardwick 2 + Automobile Morality]
+[00] - (August 8, 2016) N (NL, RLS, JS w/ LGW, Baer) - Afterbirth, London 2012 [Hard on Hardwick + when that booty knocks the pool.]
+[00] - (August 4, 2016) N (NL, RLS, MALF w/ rob, LGW, Sin, Baer) - Afterbirth, Quiplash, London 2012 
+[00] - (August 1, 2016) N (NL, RLS, JS w/ Baer, LGW) - Afterbirth, Who's Your Daddy, London 2012 
+[00] - (July 28, 2016) (NL, MALF w/ JS, LGW) - Afterbirth, WWE 2K016, London 2012 [Bootleg]
+[00] - (July 21, 2016) N (NL, RLS w/ LGW, Sin, Mathas) - Afterbirth, Evolve, Videoball
+[00] - (July 18, 2016) N (NL, RLS w/ MALF, LGW) - Afterbirth, WWE 2K016, Golf With Friends
+[00] - (July 14, 2016) N (NL, RLS w/ LGW, Sin) - Afterbirth, WWE 2K016, Videoball
+[00] - (July 11, 2016) (NL, RLS w/ Baer, rob, LGW) - Afterbirth, Necropolis, Pinturillo 2
+[00] - (July 4, 2016) N (NL, RLS, JS w/ rob, LGW) - Afterbirth, WWE 2K016, Dead By Daylight
+[00] - (June 30, 2016) N (NL, RLS w/ MALF, rob, Baer, LGW) - Afterbirth, Quiplash, Overwatch
+[00] - (June 27, 2016) N (NL, RLS, JS w/ rob, LGW) - Afterbirth, aborted attempt to play Gang Beasts, Superfight, Golf With Friends
+[00] - (June 23, 2016) N (NL, RLS w/ rob, MALF, Dan) - Afterbirth, Dead By Daylight, Pinturillo
+[00] - (June 20, 2016) N (NL, RLS, JS w/ rob, Mathas) - Afterbirth, Dead By Daylight, Drawful 2
+[00] - (June 9, 2016) N (NL, RLS, rob w/ LGW) - Afterbirth, Quiplash, Pinturillo
+[00] - (June 6, 2016) N (NL, RLS, JS w/ LGW, MALF, Dan) - Afterbirth, Golf with Friends, FF Decades
+[00] - (June 2, 2016) N (NL, RLS w/ rob, LGW) - Afterbirth, Goofball Goals, ShellShock Live
+[00] - (May 30, 2016) N (NL, RLS, JS w/ rob, Baer, LGW) - Afterbirth, Golf With Friends, Overwatch
+[00] - (May 26, 2016) N (NL, RLS w/ rob, LGW, Baer) - Afterbirth, Duck Game, Overwatch
+[00] - (May 23, 2016) (NL, JS w/ rob, Dan, Sin, LGW) - Afterbirth, Gang Beasts, The Culling, Overwatch
+[00] - (May 16, 2016) (NL, RLS, JS w/ rob, LGW) - Afterbirth, Who's Your Daddy, Golf With Friends, Quiplash [Bootleg]
+[00] - (May 12, 2016) N (NL, RLS w/ rob, LGW) - Gungeon, Rocket League, Golf with Friends
+[00] - (May 5, 2016) N (NL, RLS w/ JS, rob) - Afterbirth, Gang Beasts, Gang Beasts
+[00] - (May 4, 2016) N (NL, RLS, rob w/ MALF) - Enter the Gungeon, Moonshot, The Culling
+[00] - (May 2, 2016) N(NL, RLS, JS w/ MALF) - Enter the Gungeon, Knight Squad, Duck Game
+[00] - (April 28, 2016) (RLS, MALF, rob, LGW) - Knight Squad, Duck Game, Cards Against Humanity 
+[00] - (April 27, 2016) (RLS, rob, LGW w/ Lin) - Quake Live, Pinturillo, Cards Against Humanity 
+[00] - (April 18, 2016) N (NL, RLS, JS) - Dark Souls 3, Dark Souls 3, Dark Souls 3
+[00] - (April 14, 2016) (NL, RLS w/ MALF, rob, LGW) - Afterbirth, Who's Your Daddy, Quiplash [Bootleg]
+[00] - (April 13, 2016) N (NL, RLS w/ rob, MALF, Dan, LGW) - Enter the Gungeon, The Culling, Shellshock Live
+[00] - (April 11, 2016) N (NL, RLS, JS) - Dark Souls 3, Dark Souls 3, Dark Souls 3
+[00] - (April 7, 2016) N (NL, RLS w/ MALF, rob, LGW) - Enter the Gungeon, Lethal League, Golf with Friends
+[00] - (April 6, 2016) N (NL, RLS w/ LGW) - Enter the Gungeon, The Culling, Shellshock Live
+[00] - (April 4, 2016) N (NL, RLS, JS w/ rob) - Afterbirth, Duck Game, Pinturillo
+[00] - (March 31, 2016) N (NL, RLS w/ MALF, rob, LGW) - Afterbirth, The Culling, Golf With Friends
+[00] - (March 28, 2016) N (NL, RLS w/ MALF, rob) - Afterbirth, Space Food Truck, Shellshock Live!
+[00] - (March 24, 2016) part 01-2 N (NL, RLS w/ LGW) - Afterbirth, The Culling, Golf with Friends
+[00] - (March 21, 2016) (RLS, rob w/ MALF, LGW, Lin) - The Culling, Pinturillo, Shellshock Live 
+[00] - (March 15, 2016) (RLS, MALF, LGW, maja) - Shellshock Live, Pinturillo, Golf With Friends
+[00] - (March 10, 2016) (RLS, MALF, Baer, LGW) - Golf With Friends, Brawlhalla, Pinturillo 
+[00] - (March 9, 2016) (RLS, MALF, rob, LGW) - Rocket League, Mount Your Friends, Cards Against Humanity
+[00] - (March 7, 2016) (RLS, JS, Baer, rob w/ LGW) - Don't Starve Together, Rocket League, Duck Game, Cards Against Humanity
+[00] - (February 29, 2016) N (NL, RLS, JS w/ rob) - Afterbirth, Half Dead, Golf With Friends with rob
+[00] - (February 25, 2016) N (NL, RLS, dan) - Afterbirth, Obliteracers, Golf with Friends [3 year NLversary!]
+[00] - (February 22, 2016) N (NL, RLS, JS w/ rob) - Afterbirth, Duck Game, Golf With Friends and FF
+[00] - (February 18, 2016) N (NL, RLS) - Afterbirth, Toribash, Golf With Friends, Rock of Ages
+[00] - (February 15, 2016) N (NL, RLS, JS w/ MALF) - Afterbirth, Golf With Friends with MALF, The Forest with MALF
+[00] - (February 8, 2016) N (NL, RLS, JS) - Afterbirth, Golf with Friends, Duck Game, Cobalt
+[00] - (February 4, 2016) N (NL, RLS w/ MALF) - Afterbirth, SpyParty, The Forest with MALF
+[00] - (February 1, 2016) N (NL, RLS, JS) - Afterbirth, Secret Ponchos, FF Decades
+[00] - (January 28, 2016) N (NL, RLS, MALF) - Afterbirth, FF Decades (Nick plays Afterbirth), The Forest
+[00] - (January 27, 2016) N (NL, RLS) - Afterbirth, Goofball Goals, Spelunky, Who's Your Daddy?
+[00] - (January 25, 2016) (NL, RLS, JS, MALF) - Afterbirth, BroForce, failed attempt to play Worms Rev, Duck Game
+[00] - (January 21, 2016) N (NL, RLS, MALF w/ rob) - Afterbirth, Move or Die!, Worms Rev
+[00] - (January 20, 2016) N (NL, RLS w/ rob) - Afterbirth, Spy Party, The Forest
+[00] - (January 18, 2016) N (NL, RLS, JS) - Afterbirth, Duck Game, Vertiginous Golf
+[00] - (January 11, 2016) N (NL, RLS, JS w/ rob) - Afterbirth, Duck Game with rob, Quiplash with rob
+[00] - (January 7, 2016) N (NL, RLS w/ MALF, rob) - Afterbirth, Tharsis, Duck Game
+[00] - (January 4, 2016) N (NL, RLS, JS w/ rob) - Afterbirth, Duck Game, Helldivers
+[00] - (December 31, 2015) N (NL, RLS w/ rob) - Afterbirth, Who's Your Daddy, Duck Game with alpacapatrol
+[00] - (December 28, 2015) N(NL, RLS, JS) - Afterbirth, Duck Game, Rainbow Six Siege
+[00] - (December 21, 2015) N (NL, RLS, JS, w/ MALF) - Afterbirth, Duck Game, Rainbow Six Siege
+[00] - (December 10, 2015) N (NL, RLS, MALF) - Afterbirth, Spelunky, Super Meat Boy, Worms Rev
+[00] - (December 7, 2015) part 01-2 N (NL, RLS) - Afterbirth, Dark Souls Race
+[00] - (November 30, 2015) part 01-2 (NL, RLS, MALF w/ rob) - Afterbirth, Keep Talking and No Body Explodes, Rocket League
+[00] - (November 23, 2015) N (NL, RLS, JS w/ rob) - Afterbirth, Duck Game, Hell Divers
+[00] - (November 19, 2015) N (NL, RLS, MALF) - Afterbirth, Spelunky, Rocket League
+[00] - (November 18, 2015) part 01-2 N (NL, RLS w/ Baer, rob) - Afterbirth, Worms Rev, Tabletop Simulator Superfight [Big D blowout]
+[00] - (November 16, 2015) N (NL, RLS, JS) - Afterbirth, Rocket League, Duck Game
+[00] - (November 12, 2015) N (NL, RLS w/ rob, Baer) - Afterbirth, Speedrunners, Brawlhalla
+[00] - (November 9, 2015) N (NL, RLS, JS w/ Baer) - Afterbirth, Duck Game, Rocket League
+[00] - (November 5, 2015) N (NL, RLS, MALF) - Afterbirth, Duck Game, Rocket League
+[00] - (November 2, 2015) part 01-2 N (NL, RLS, JS) - Afterbirth, Duck Game
+[00] - (October 29, 2015) (NL, RLS) - Rebirth, Downwell, Cannon Brawl
+[00] - (October 26, 2015) part 01-2 part 3 (NL, JS, MALF) - Spelunky, Keep Talking and Nobody Explodes, Rocket League [Bootleg]
+[00] - (October 19, 2015) part 01-2 (NL, JS, MALF) - Spelunky, Keep Talking and Nobody Explodes, JB Party Pack 2
+[00] - (October 15, 2015) part 01-2 (NL, MALF) - Rebirth, Keep Talking and Nobody Explodes, Rocket League
+[00] - (October 14, 2015) part 01-2 (NL, MALF) - Rebirth, Keep Talking and No One Explodes, Rocket League
+[00] - (October 5, 2015) part 01-2 N (NL, RLS, JS w/ rob) - Rebirth, Duck Game, Keep Talking And Nobody Explodes!
+[00] - (October 1, 2015) part 01-2 N (NL, RLS w/ rob, Dan) - Rebirth, Rampage Knights, Bombernauts
+[00] - (September 28, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, TowerClimb, Rocket League [Kitties ain't allowed + Heated]
+[00] - (September 24, 2015) N (NL, RLS) - Rebirth, Goofball Goals, 200XX
+[00] - (September 21, 2015) N (NL, RLS, JS w/ rob) - Rebirth, Speedrunners, Spelunky
+[00] - (September 17, 2015) part 01-2 N (NL, RLS) - Rebirth, Shovel Knight DLC, 200XX
+[00] - (September 14, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Nuclear Throne, Party Hard, Tabletop Simulator: Superfight
+[00] - (September 10, 2015) N (NL, RLS) - Rebirth, Dandy, Rampage Knights
+[00] - (September 7, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Bro Force, Tabletop Simulator: Coup, Tabletop Simulator: Superfight
+[00] - (September 3, 2015) part 01-2 N (NL, RLS w/ Baer, MALF) - Rebirth, Turbo Dismount, FF (Nick drew Donald Trump) [Hey Teens!]
+[00] - (August 24, 2015) N (NL, RLS, JS) - Rebirth, Rocket League, Vertiginous Golf
+[00] - (August 20, 2015) part 01-2 N (NL, RLS) - Rebirth, Goofball Goals, SpyParty
+[00] - (August 17, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Nuclear Throne, Duck Game, Game Dev Tycoon ? When you net, Music Makers 2
+[00] - (August 13, 2015) part 01-2 N (NL, RLS, rob) - Rebirth, Nuclear Throne, Millionaire?
+[00] - (August 10, 2015) part 01-2 part 3 N (NL, RLS, JS) - Rebirth, Nuclear Throne, OlliOlli 2: Olliwood, Rocket League
+[00] - (August 6, 2015) part 01-2 (NL, RLS w/ rob, Baer, MALF) - Rebirth, Olympia Rising, Quiplash [Bootleg]
+[00] - (August 3, 2015) part 01-2 N (NL, RLS, JS w/ rob) - Rebirth, Bombernauts, Duck Game
+[00] - (July 30, 2015) part 01-2 N (NL, RLS) - Rebirth, Duck Game, Speedrunners
+[00] - (July 29, 2015) part 01-2 part 3 N (NL, RLS w/ rob, Mathas) - Rebirth & audio problems, Rocket League, Nuclear Throne, Bombernauts (continued)
+[00] - (July 27, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Nuclear Throne, FF 2010, Rocket League
+[00] - (July 22, 2015) Baer view (RLS, rob, Baer w/ Doxy, Lin) - Rebirth, Cards Against Humanity, Rocket League [wow + NoNLSS]
+[00] - (July 16, 2015) part 01-2 N (NL, RLS w/ Brex) - Rebirth, Guild of Dungeoneering, Rocket League
+[00] - (July 13, 2015) part 01-2 N (NL, RLS, JS w/ Baer) - Rebirth, Quiplash, Rocket League [Bolegda]
+[00] - (July 9, 2015) part 01-2 part 3 N (NL, RLS w/ Baer, MALF) - Rebirth, Nuclear Throne, Cannon Brawl, Rocket League, Duck Game, More Rocket League
+[00] - (July 6, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Rocket League, Vertiginous Golf, Duck Game [Josh items + Beaten up + Hairy Baker + Hairy Palms]
+[00] - (July 2, 2015) part 01-2 N (NL, RLS w/ rob) - Rebirth, Duck Game, Rocket League [Flush me J]
+[00] - (June 29, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Shovel Knight Race, FF!
+[00] - (June 25, 2015) N (NL, RLS w/ rob) - Rebirth, Avalanche 2: Super Avalanche, Brawlhalla
+[00] - (June 22, 2015) part 01-2 N (NL, RLS, JS) - Rebirth, Titan Souls Race, Game Dev Tycoon [Slam slam spit]
+[00] - (June 18, 2015) part 01-2 N (NL, RLS) - Rebirth, Nuclear Throne, Enter the Gungeon, Vertiginous Golf
+[00] - (June 17, 2015) part 01-2 N (NL, RLS) - Rebirth, Nuclear Throne, Enter the Gungeon, SpyParty
+[00] - (June 15, 2015) part 01-2 N (NL, RLS, JS w/ MALF) - Rebirth, Nuclear Throne, FF, Duck Game
+[00] - (June 11, 2015) part 01-2 (NL, RLS w/ rob, MALF) - Rebirth, Dirty Bomb, Trivia, Duck Game
+[00] - (June 10, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Nuclear Throne, Who Wants to be a Millionaire, Duck Game
+[00] - (June 8, 2015) part 01-2 (NL, RLS w/ rob) - Rebirth, Nuclear Throne, Big Pharma, Trivia's Triumphant Return, Toy Box Turbo
+[00] - (May 28, 2015) part 01-2 (NL w/ Baer, Fox) - Nuclear Throne, Home Improvisation, Duck Game
+[00] - (May 27, 2015) part 01-2 (NL) - Rebirth, Ronin, Captain Forever Remix
+[00] - (May 25, 2015) part 01-2 (NL, Arumba) - Magicka 2, more Magicka 2, even more Magicka 2
+[00] - (May 21, 2015) part 01-2 (NL, RLS) - Rebirth, Nuclear Throne, Metagame in Tabletop Simulator, Action Henk
+[00] - (May 20, 2015) part 01-2 (NL, RLS) - Rebirth, Nuclear Throne, Catacomb Kids, Action Henk
+[00] - (May 18, 2015) part 01-2 part 3 (NL, RLS w/ rob, Baer) - Rebirth, Nuclear Throne, Goofball Goals, Brawlhalla [Bootleg]
+[00] - (May 14, 2015) part 01-2 part 3 (NL, RLS) - Rebirth, SpyParty, Vertiginous Golf [Bootleg]
+[00] - (May 13, 2015) part 01-2 part 3 (NL, RLS w/ rob, Baer) - Rebirth, SpyParty, Brawlhalla [Bootleg]
+[00] - (May 7, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Nuclear Throne, Who wants to be a millionaire, Google Feud, Armello, Brawlhalla
+[00] - (May 6, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Goofball Goals (continued) Speedrunners
+[00] - (May 4, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Captain Forever Remix, Brawlhalla with Rob + Baer
+[00] - (April 22, 2015) part 01-2 part 3 (NL, RLS w/ rob, Baer) - Rebirth, Convoy, Lethal League, Brawlhalla [Bootleg]
+[00] - (April 20, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Goofball Goals, Square Heroes
+[00] - (April 16, 2015) part 01-2 part 3 (NL, RLS w/ rob, Baer) - Rebirth, Nuclear Throne, Killing Floor 2 [Bootleg]
+[00] - (April 15, 2015) part 01-2 (NL, RLS w/ cobaltstreak, baer, rob) - Rebirth, Killing Floor 2 (continued)
+[00] - (April 13, 2015) part 01-2 part 3 (NL, RLS w/ rob, Baer) - Rebirth, Catacomb Kids, Brawlhalla [Bootleg]
+[00] - (April 9, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Mount Your Friends with Baer, rob (continued) Square Heroes
+[00] - (April 8, 2015) part 01-2 part 3 (NL, RLS w/ rob) - Rebirth, Speedrunners with rob, Nuclear Throne & twitch problems
+[00] - (April 6, 2015) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Cannon Brawl
+[00] - (April 2, 2015) part 01-2 (NL, RLS w/ Baer) - Rebirth, Captain Forever Remix, Google Feud with Baer
+[00] - (April 1, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Catacomb kids, Brawlhalla
+[00] - (March 26, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Captain Forever Remix, Brawlhalla with rob, Baer
+[00] - (March 25, 2015) part 01-2 part 3 (NL, RLS) - Rebirth, Goofball Goals, Spelunky, Nuclear Throne [Bootleg]
+[00] - (March 23, 2015) part 01-2 (NL, RLS) - Rebirth, Nuclear Throne, Google Feud
+[00] - (March 19, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, FF Decades, Brawlhalla with rob, Baer
+[00] - (March 18, 2015) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Catacomb Kids
+[00] - (March 11, 2015) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Move or Die with rob, Baer, Brawlhalla with rob
+[00] - (February 26, 2015) part 01-2 part 3 (NL, RLS w/ rob, fox) - Rebirth, Catacomb Kids, Speedrunners with rob, fox [Bootleg]
+[00] - (February 25, 2015) part 01-2 part 3 (NL, RLS w/ JS, rob) - Rebirth, Toribash, Worms: Revolution [2 year NLversary! + Bootleg]
+[00] - (February 23, 2015) part 01-2 (NL, RLS w/ JS, rob) - Rebirth, Catacomb Kids, FF Decades
+[00] - (February 19, 2015) part 01-2 part 3 (NL, RLS w/ rob) - Rebirth, SpyParty, Mount your Friends [Bootleg]
+[00] - (February 18, 2015) part 01-2 (NL, RLS w/ JS, rob) - Rebirth, Goofball Goals, Speed Runners
+[00] - (February 16, 2015) part 01-2 (NL, RLS w/ JS, rob) - Rebirth, FF, Who wants to be a millionaire, Robot Roller Derby Disco Dodgeball
+[00] - (February 12, 2015) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Armello
+[00] - (February 11, 2015) part 01-2 (NL w/ Baer) - Rebirth, Geoguessr, Frozen Cortex with Baer
+[00] - (February 9, 2015) part 01-2 (NL, RLS) - Rebirth, SpyParty, Spelunky Mount your friends
+[00] - (February 5, 2015) part 01-2 part 3 (NL, RLS w/ JS, rob) - Rebirth, FF Decades, Darkest Dungeon 
+[00] - (February 2, 2015) part 01-2 (NL, RLS w/ rob) - Rebirth, FF Decades with rob, Cannon Brawl
+[00] - (January 29, 2015) part 01-2 (NL, RLS w/ rob) - Rebirth, Goofball Goals, Speedrunners with rob
+[00] - (January 28, 2015) part 01-2 (NL, RLS) - Rebirth, Dying Light co-op, Nuclear Throne
+[00] - (January 19, 2015) part 01-2 (RLS, rob w/ JS, LGW, Brex, Green) - Rebirth, Cards Against Humanity 
+[00] - (January 14, 2015) part 01-2 (RLS, rob, Baer w/ JS, LGW, Green) - Rebirth, Mount Your Friends, Cards Against Humanity
+[00] - (January 12, 2015) part 01-3 (RLS, rob w/ JS, MALF, Green, LGW) - Rebirth, Goofball Goals, iSketch 
+[00] - (January 8, 2015) part 01-3 (NL, RLS) - Rebirth, Fibbage, Spelunky [Bootleg]
+[00] - (January 7, 2015) part 01-2 (NL, RLS w/ JS, rob) - Rebirth, Goofball Goals, Lethal League
+[00] - (January 5, 2015) part 01-2 (NL, RLS w/ rob) - Rebirth, Drawful, Speedrunners
+[00] - (January 1, 2015) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Cannon Brawl
+[00] - (December 31, 2014) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Spelunky, Mount Your Friends
+[00] - (December 29, 2014) part 01-2 (NL, RLS w/ fox) - Rebirth, Fibbage Continued, Battleblock Theater
+[00] - (December 22, 2014) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Spelunky [Bootleg]
+[00] - (December 18, 2014) part 01-2 (NL) - Rebirth, Geoguessr, Fibbage
+[00] - (December 17, 2014) part 01-2 (RLS, Rob, Baer w/ JS, Green) - Rebirth, Mount Your Friends, Cards Against Humanity 
+[00] - (December 15, 2014) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Mount Your Friends [Monster Cables]
+[00] - (December 11, 2014) part 01-2 (NL, RLS w/ Kate, Baer) - Rebirth, Canon Brawl, Fibbage (The JB Party Box) [Bootleg]
+[00] - (December 10, 2014) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Distance
+[00] - (December 8, 2014) part 01-2 (cat cam!) (NL, RLS w/ rob, Mag) - Rebirth, Goofball Goals, Lethal League
+[00] - (December 4,2014) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, Mount Your Friends
+[00] - (December 3, 2014) part 01-2 (NL, RLS) - Rebirth, Goofball Goals, I am Bread
+[00] - (November 27, 2014) part 01-2 (NL) - Rebirth, GeoGuessr, Dungeon of the Endless, Re-rebirth
+[00] - (November 26, 2014) part 01-2 (NL) - Rebirth, GeoGuessr, Spelunky, Re-rebirth
+[00] - (November 24, 2014) part 01-2 (NL, RLS) - BOI: Rebirth, Goofball Goals Continued, Vertiginous Golf
+[00] - (November 20, 2014) part 01-2 (NL, RLS) - BOI: Rebirth, Goofball Goals, SpyParty
+[00] - (November 17, 2014) part 01-2 (NL, RLS w/ rob, Baer) - BOI: Rebirth, Goofball Goals, Who wants to be a Millionaire with Rob + Baer
+[00] - (November 13, 2014) part 01-2 (NL, RLS) - BOI: Rebirth, Goofball Goals, Geoguessr
+[00] - (November 6, 2014) part 01-2 (NL, RLS w/ rob, Baer) - Rebirth, Goofball Goals, Worms: Revolution with rob, Baer [The Acrobat + Bootleg]
+[00] - (November 5, 2014) part 01-2 (NL, RLS) - Rebirth, Rebirth, Rebirth.
+[00] - (November 3, 2014) part 01-2 (NL, RLS w/ rob) - BOI, Goofball Goals, Metagame with Rob in Tabletop Simulator
+[00] - (October 30, 2014) part 01-2 (NL, RLS) - BOI, Goofball Goals, SpyParty
+[00] - (October 29, 2014) part 01-2 (NL, RLS) - BOI, Vertiginous Golf, Spy Party
+[00] - (October 27, 2014) part 01-2 (NL, RLS w/rob, Baer) - BOI, Goofball Goals, Lethal League with Rob and Baer
+[00] - (October 23, 2014) part 01-2 (NL, RLS) - BOI, Spelunky, Spy Party [Bootleg]
+[00] - (October 22, 2014) part 01-2 (NL, RLS w/ rob, MALF) - BOI, Goofball Goals, Worms Rev with Rob and MALF
+[00] - (October 20, 2014) part 01-2 (NL, RLS w/ rob, Baer) - BOI, Bomb Party attempt, Spelunky, Continued, Sonic All Stars Racing with rob and Baer
+[00] - (October 16, 2014) part 01-2 (NL, RLS) - BOI, SpyParty, Spelunky [Jackets]
+[00] - (October 15, 2014) part 01-3 (NL, RLS w/ rob, Baer) - BOI, Geoguessr, Cards Against Humanity, (continued)
+[00] - (October 13, 2014) part 01-2 (NL, RLS) - BOI, Spyparty, Rock of Ages
+[00] - (October 9, 2014) part 01-2 (NL, RLS w/ rob, Baer) - BOI, Choice Chamber, Lethal League [scheisse my brown factory + spoodbeast]
+[00] - (October 8, 2014) part 01-2 (NL, RLS) - BOI, Vertiginous Golf, Cannon Brawl
+[00] - (October 6, 2014) part 01-3 (NL, RLS w/ rob) - BOI, Guess who, Metagame, (attempt to play) FF Decades, Spelunky, GeoGeussr
+[00] - (October 2, 2014) part 01-2 (NL, RLS w/ rob, Baer) - BOI, Super Win the Game, Continued, Cards Against Humanity [Spintires + Largest Tent]
+[00] - (October 1, 2014) part 01-2 (NL, RLS) - BOI, Rock of Ages, Mount your Friends [Dong Smasher + Dong Smasher Song]
+[00] - (September 25, 2014) part 01-3 (NL, RLS w/ rob, Mag) - BOI, Spelunky, Lethal League, (Continued) [The Clog]
+[00] - (September 24, 2014) part 01-2 (NL, RLS w/ rob, Baer) - BOI, Fenix Rage, Gauntlet
+[00] - (September 22, 2014) part 01-2 (NL, RLS w/ rob, Mag) - BOI, Cannon Brawl, Lethal League
+[00] - (September 18, 2014) part 01-2 (NL, RLS) - BOI, Spelunky, Continued, Toribash
+[00] - (September 17, 2014) part 01-2 (NL, RLS w/ JS, rob) - BOI, Mount Your Friends, Continued, Millionaire?
+[00] - (September 15, 2014) part 01-2 (NL, RLS w/ JS, rob) - BOI, Cabella's Big Game Hunter: Pro Hunts, Continued, Lethal League
+[00] - (September 11, 2014) part 01-2 (NL, RLS) - BOI, Spelunky, SpeedRunners
+[00] - (September 10, 2014) part 01-2 (NL, RLS w/ JS, Mag) - BOI, Rocko's Modern Life, Mount Your Friends, Lethal League
+[00] - (September 8, 2014) part 01-2 (NL, RLS w/ JS) - BOI, Lethal League, Continued, FF Decades
+[00] - (August 27, 2014) part 01-2 (NL, RLS in person) - Gang Beasts, Spelunky, Crawl
+[00] - (August 25, 2014) part 01-2 (NL, RLS, Kate in person) - Crawl, Sportsfriends, Cavern Kings, Crawl
+[00] - (August 13, 2014) part 01-2 (NL, RLS) - BOI, Mount Your Friends, Spelunky, Mount Your Friends
+[00] - (August 12, 2014) part 01-2 (NL, RLS w/ rob) - BOI, Cavern Kings, Screencheat
+[00] - (August 7, 2014) part 01-2 (NL, RLS w/ rob) - BOI, Cannon Brawl, iSketch [Internet Explorer + Cat Explorer + Deer Egg + Fireworks]
+[00] - (August 6, 2014) part 01-2 (NL, RLS) - BOI, Mount Your Friends, Toribash [Arena Song]
+[00] - (August 4, 2014) part 01-2 (NL, RLS w/ rob) - BOI, Virtual Bart, Continued, FF Decades
+[00] - (July 31, 2014) part 01-2 (NL, RLS) - BOI, ibb & obb, Mount Your Friends
+[00] - (July 30, 2014) part 01-2 (NL, RLS) - BOI, Cannon Brawl, Spelunky [Indie Games are Terrible, Science and Data]
+[00] - (July 28, 2014) part 01-2 (NL, RLS w/ Kate, Baer, rob) - BOI, Mount Your Friends, iSketch [John Travolta + John Woo Her]
+[00] - (July 24, 2014) part 01-2 (NL, RLS w/ rob, Baer) - BOI, ibb & obb, Worms Rev
+[00] - (July 21, 2014) part 01-2 (NL, RLS) - BOI, OlliOlli, SmartBall
+[00] - (July 16, 2014) part 01-3 (NL, RLS) - BOI, Metal Slug 3, XPlane, GeoGuessr, (Continued)
+[00] - (July 14, 2014) part 01-2 (NL, RLS) - BOI, Metal Slug 3, Toribash, GeoGuessr, Toribash
+[00] - (July 10, 2014) part 01-2 (NL, RLS w/ Baer) - BOI, Super House of Dead Ninjas, FF Decades
+[00] - (July 9, 2014) part 01-2 (NL, RLS) - BOI, Game Dev Tycoon, Millionaire?
+[00] - (July 7, 2014) part 01-2 (NL, RLS w/ Baer) - BOI, Nuclear Throne, FF Decades
+[00] - (July 2, 2014) part 01-2 (NL, RLS) - BOI, Bunny Must Die, Toribash
+[00] - (June 30, 2014) part 01-2 (NL, RLS w/ Kate, rob) - News and Fanmail, Spelunky, 100% Orange Juice, Cards Against Humanity
+[00] - (June 26, 2014) part 01-2 (NL, RLS) - News and fanmail, Shovel Knight, (Continued)
+[00] - (June 25, 2014) part 01-2 (NL, RLS) - News and fanmail, BOI, Karnov, Magicite
+[00] - (June 19, 2014) part 01-2 (NL, RLS w/ rob) - News and fanmail, BOI, Magicka Wizard Wars, FF 2010
+[00] - (June 18, 2014) part 01-2 (NL, RLS w/ Kate, rob, Baer, Mathas) - News and fanmail, Secret Ponchos, Cards Against Humanity
+[00] - (June 16, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, A Wizard's Lizard, SpeedRunners, Toribash
+[00] - (June 12, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Spelunky, Broforce, BOI, Magicka Wizard Wars
+[00] - (June 11, 2014) part 01-2 (NL, RLS, JS w/ Mathas) - News and fanmail, Magicka Wizard Wars, FF 2010
+[00] - (June 9, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Team Fortress 2, Worms: Revolution
+[00] - (June 5, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Tabletop Simulator, Guess who, Trivia, iSketch
+[00] - (June 4, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, 1001 Spikes, BOI
+[00] - (June 2, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Tabletop Simulator, Trivia, FF 2010
+[00] - (May 29, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Duck Tails, Continued, London 2012, Spelunky, Toribash
+[00] - (May 28, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, 100% Orange Juice, Toribash
+[00] - (May 26, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Toribash, Battleblock Theather
+[00] - (May 15, 2014) part 01-2 (NL, RLS) - News and fanmail, Ascendant, Battleblock Theather
+[00] - (May 14, 2014) part 01-2 (NL, RLS) - News and fanmail, Mendel palace, BOI, GeoGuessr
+[00] - (May 12, 2014) part 01-2 (NL, RLS) - News and fanmail, Whomp'em, Kero Blaster
+[00] - (May 8, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, The Addams Family, Blade Symphony, Coin Crypt, Cook Serve Delicious
+[00] - (May 5, 2014) part 01-2 (NL, RLS, JS w/ Mike Bithell) - News and fanmail, FF 2010, Coin Crypt
+[00] - (May 1, 2014) part 01-2 (NL, RLS, JS) - News and Fanmail, Dark Souls 2, Spelunky, Dark Souls 2
+[00] - (April 30, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Dark Souls 2, BOI
+[00] - (April 28, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Dark Souls 2, Spelunky
+[00] - (April 24, 2014) part 01-2 (NL, RLS, JS) - Dark Souls 2, (Continued)
+[00] - (April 23, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, FF 2010, Worms Rev
+[00] - (April 21, 2014) part 01-2 (NL, RLS, JS) - News and fanmail, Aladdin, Continued, BOI, Spelunky
+[00] - (April 17, 2014) part 01-2 (NL, RLS, JS) - Super Castlevania 4, Cook Serve Delicious, Continued, Trivia, BOI, Cook Serve Delicious
+[00] - (April 16, 2014) part 01-2 (NL, RLS, JS) - Chivalry, FF 2010, Trivia, Spelunky
+[00] - (April 7, 2014) part 01-2 (NL, RLS, JS) - BroForce, FF 2010, Damned, Spelunky [Cat Burglar + Volcano House]
+[00] - (April 3, 2014) part 01-2 (NL, RLS, JS) - FF 2010, Cook Serve Delicious, Trivia, Spelunky
+[00] - (April 2, 2014) part 01-2 (NL, RLS, JS) - FTL, Minesweeper, Trivia, Rogue Legacy, Continued, Cook Serve Delicious
+[00] - (March 31, 2014) part 01-2 (NL, RLS, JS) - Mercenary Kings, FF 2010, technical issues, Lightning round and trivia, Spelunky
+[00] - (March 27, 2014) part 01-2 (NL, RLS, JS) - SpyParty, Revelations 2012, Bomb Party, Trivia, Robot Roller Derby Disco Dodgeball
+[00] - (March 26, 2014) part 01-2 (NL, RLS, JS) - Choice Chamber, BOI, Trivia, Spelunky, SpeedRunners
+[00] - (March 24, 2014) part 01-2 (NL, RLS, JS) - Chivalry, FFs Decades, Trivia, Spelunky
+[00] - (March 13, 2014) part 01-2 (NL, RLS, JS) - Bomb Party, FF 2010, Spelunky, Super Meat Boy
+[00] - (March 12, 2014) part 01-2 (NL, RLS, JS) - Super Mario Bros. The Lost Levels, Bosses Forever, BOI, Chess
+[00] - (March 10, 2014) part 01-2 (NL, RLS, JS) - FF 2010, Nuclear Throne, Spelunky, Super Meat Boy, FF 2010 [Anxiety Stall]
+[00] - (March 6, 2014) part 01-2 (NL, RLS, JS) - Dark Souls, FF 2010
+[00] - (March 5, 2014) part 01-2 (NL, RLS, JS) - Dark Souls, Guess Who, Trivia, 0100 Second Ninja
+[00] - (March 3, 2014) part 01-2 (NL, RLS, JS) - FF 2010, BOI, Trivia, Spelunky [Yacht Bots]
+[00] - (February 27, 2014) part 01-2 (NL, RLS, JS) - Dark Souls, Guess who and trivia, The Yawhg, Spelunky
+[00] - (February 26, 2014) part 01-2 (NL, RLS, JS) - Dark Souls, Guess who and trivia, BOI
+[00] - (February 24, 2014) part 01-2 (NL, RLS, JS) - Dark Souls, Guess who and trivia, FF Decades
+[00] - (February 20, 2014) part 01-2 (NL, RLS) - Megaman 2, FF 2010, Trivia, Spelunky
+[00] - (February 19, 2014) part 01-2 (NL, RLS, JS) - Titanfall, Worms Rev, Guess who and trivia, Spelunky
+[00] - (February 17, 2014) part 01-2 (NL, RLS, JS) - Titanfall, FF Decades, Guess who and trivia, Spelunky - [Garbage Bird]
+[00] - (February 13, 2014) part 01-2 (NL, RLS) - Double Dragon Neon, FF Decades, Bloody Trapland, Trivia, Spelunky
+[00] - (February 12, 2014) part 01-3, part 4, part 5 (NL, RLS) - Dark Souls, (More continued), Trivia, Spelunky, (Continued)
+[00] - (February 10, 2014) part 01-2 (NL, RLS, JS) - Dark Souls, Nagano Winter Olympics '98, Guess who and trivia, FF 2010
+[00] - (February 6, 2014) part 01-2 (NL, RLS, JS) - Millionaire?, Lillehammer '94 Winter Olympics, Guess who and trivia, Spelunky
+[00] - (February 5, 2014) part 01-2 (NL, RLS, JS, MALF) - Magicka Wizard Wars, FF 2010, Guess who, trivia, SpeedRunners 
+[00] - (February 3, 2014) part 01-2 (NL, RLS w/ rob, MALF) - Loadout, FF 2014, Guess who and trivia, Spelunky
+[00] - (January 30, 2014) part 01-2 (NL, RLS, JS w/ Mike Bithell) - FF 2010, Octodad: Dadliest Catch, Guess who and trivia, Spelunky
+[00] - (January 29, 2014) part 01-2 (NL, RLS, JS) - Kirby's Dream Course, FF 2010, Guess who and trivia, Our Darker Purpose
+[00] - (January 27, 2014) (NL, RLS, JS w/ Crendor) - FF 2010, Guess who and trivia, Spelunky (Return the slab run) [Return the Slab]
+[00] - (January 23, 2014) part 01-2 (RLS, JS, MALF, rob) - Minecraft, Worms Rev, iSketch 
+[00] - (January 22, 2014) part 01-2 (RLS, JS, MALF, rob) - BOI, Geometry Wars, Spelunky, Cards Against Humanity 
+[00] - (January 20, 2014) part 01-2 (NL, RLS, JS) - Donkey Kong Country race, Worms Rev, Guess who, trivia, Spelunky [Alpaca Patrole + Dishonorable]
+[00] - (January 16, 2014) part 01-2 (NL, RLS, JS) - Are You Smarter Than a Fifth Grader?, FF 2010, Guess who and trivia, Spelunky
+[00] - (January 15, 2014) part 01-2 (NL, RLS, JS) - Millionaire?, Chivalry, Tubro Dismount, Guess who, trivia, BOI
+[00] - (January 13, 2014) part 01-2 (NL, RLS, MALF) - Nidhogg, FF 2010, Guess who, trivia, Spelunky
+[00] - (January 9, 2014) part 01-2 (NL, RLS, MALF w/ rob) - Bloody Trapland, Long Live the Queen, FF 2010, Guess who, trivia, Roller Derby Disco Dodgeball
+[00] - (January 8, 2014) part 01-2 (NL, RLS, JS) - FF 2010, Cook Serve Delicious, Guess who and trivia, BOI
+[00] - (January 6, 2014) part 01-2 (NL, RLS, JS) - FF 2010, Gunman Clive Race, Guess who and trivia, Spelunky
+[00] - (December 19, 2013), part 01-2 (NL, RLS, JS) - Just Cause 2, SpeedRunners, SpeedRunners continued, Guess who, trivia, FF 2010 [Violent Ross]
+[00] - (December 18, 2013), part 01-2 (NL, JS) - The Politicial Machine 2012, Talisman, Guess who and trivia, Spelunky
+[00] - (December 16, 2013), part 01-2 (NL, RLS, JS) - FF 2010, Super Crate Box, Guess who and trivia, Spelunky
+[00] - (December 12, 2013), part 01-2 (NL, RLS, JS) - Starbound, FF 2010, Guess who, trivia, Spelunky
+[00] - (December 11, 2013), part 01-2 (NL, RLS, JS) - Starbound, Tiny Brains, Guess who and trivia, Spelunky
+[00] - (December 9, 2013), part 01-2 (NL, RLS, JS) - Starbound, BOI, Guess who and trivia, Spelunky [Wild Ankh]
+[00] - (December 5, 2013), part 01-2 (NL, RLS, JS) - Frozen Endzone, Starbound, Guess who and trivia, Spelunky [British Owl]
+[00] - (December 4, 2013), part 01-2 (NL, RLS, JS) - Starbound, FF 2010, Guess who and trivia, Spelunky
+[00] - (December 2, 2013), part 01-2 (NL, RLS, JS) - Incredipede, Starbound, Guess who and trivia, Spelunky
+[00] - (November 28, 2013), part 01-2 (NL, JS) - Cook Serve Delicious, SpyParty, Guess who and trivia, Spelunky [Clone Smith]
+[00] - (November 27, 2013), part 01-2 (NL, RLS, JS) - Painter, Divekick, Guess who and trivia, Spelunky
+[00] - (November 25, 2013), part 01-2 (NL, RLS, JS) - Dark Souls Invasions, FF 2010, Guess who and trivia, Spelunky
+[00] - (November 21, 2013), part 01-2 (NL, RLS, JS) - VVVVVV, SpeedRunners, Guess who and trivia, Spelunky
+[00] - (November 20, 2013), part 01-2 (NL, RLS, JS) - FF 2010, Chivalry, Guess who and trivia, Spelunky [Drunken Sailor]
+[00] - (November 18, 2013), part 01-2 (NL, RLS, JS) - Robot Roller Derby Disco Dodgeball, FF 2010, Guess who and trivia, Spelunky
+[00] - (November 14, 2013), part 01-2 (NL, RLS, JS) - Chivalry, Salty bet, Guess who and trivia, Spelunky
+[00] - (November 13, 2013), part 01-2 (NL, RLS, MALF) - iSketch, FF 2010, Guess who and trivia, Spelunky [Fox Aid]
+[00] - (November 11, 2013), part 01-2 (NL, RLS, MALF) - Counterstrike: Global Offensive, Payday 2, Guess who and trivia, Spelunky
+[00] - (November 7, 2013), part 01-2 (NL, RLS, JS, MALF) - Final exam, Sonic All Stars Racing Transformed, Guess who and trivia, Spelunky
+[00] - (November 6, 2013), part 01-2 (NL, RLS, JS) - Call of Duty: Ghosts, NLSS Videogame Olympics HD: SpeedRunners, Guess who, trivia, Spelunky
+[00] - (November 4, 2013), part 01-2 (NL, RLS, MALF) - Millionaire?, Worms Rev, Guess who and trivia, Spelunky
+[00] - (October 31, 2013) part 01-2 (NL, RLS, JS) - Left 4 Dead, NLSS Videogame Olympics HD: Hotline Miami, Trivia and Guess Who, Speedrunners [Midas Cyrus]
+[00] - (October 30, 2013), part 01-2 (NL, RLS, JS) - Chivalry, NLSS Videogame Olympics HD: The Typing of the Dead: Overkill, Guess who and Trivia, Spelunky
+[00] - (October 28, 2013) (NL, RLS, JS) - Millionaire?, NLSS Videogame Olympics HD: Probably Archery, Guess who and trivia, Spelunky, SpeedRunners
+[00] - (October 24, 2013) part 01-2 (NL, RLS, JS) - Chivalry, NLSS Videogame Olympics HD: Dark Souls race, Guess who and trivia, Spelunky, SpeedRunners
+[00] - (October 23, 2013) (NL, RLS, JS w/ rob) - Millionaire?, NLSS Videogame Olympics HD: Mount your friends, Guess who and trivia, Spelunky, SpeedRunners
+[00] - (October 21, 2013) (NL, RLS, JS) - Chivalry: Deadliest Warrior, NLSS Videogame Olympics HD: Boardgame online, Guess Who and Trivia, Spelunky
+[00] - (October 17, 2013) (NL, RLS, JS w/ rob) - Millionaire?, NLSS Videogame Olympics HD: Worms Rev, Guess who and trivia, Spelunky, SpeedRunners
+[00] - (October 16, 2013) (NL, RLS, JS w/ rob) - Millionaire?, NLSS Videogame Olympics HD: Pokemon Snap, Guess who and trivia, Spelunky [Seamus Aran]
+[00] - (October 14, 2013) (NL, RLS, JS) - Terraria, NLSS Videogame Olympics HD: Papers Please, Guess who and trivia, Spelunky, SpeedRunners
+[00] - (October 10, 2013) (NL, RLS, JS w/ RPG) - Surgeon Simulator 2013, SpeedRunners, Guess who and Trivia, Spelunky
+[00] - (October 9, 2013) (NL, RLS, JS) - Cook Serve Delicious, Spelunky, Metagame and Trivia, More Spelunky, SpeedRunners
+[00] - (October 7, 2013) (NL, RLS, JS) - Spelunky, Super Meat Boy race, Metagame and Trivia, More Spelunky, Speedrunners
+[00] - (October 3, 2013) (NL, RLS, JS) - SpeedRunners, Monaco, Metagame and trivia, Spelunky
+[00] - (October 2, 2013) (NL, RLS, JS) - Spelunky, War of the Vikings, SpyParty, More War of the Vikings, Metagame and trivia, Spelunky [War of the Cameo]
+[00] - (September 30, 2013) part 01-2 (NL, RLS, JS) - Spelunky, SpeedRunners, Metagame and Trivia, Short Spelunky, More SpeedRunners
+[00] - (September 26, 2013) (NL, RLS, JS) - SpeedRunners, The Showdown Effect, Hearthstone, Metagame and Trivia, Spelunky
+[00] - (September 25, 2013) part 01-2 (NL, RLS, JS) - Spelunky, Worms Rev, Speedrunners, Metagame and trivia, Spelunky, Speedrunners
+[00] - (September 23, 2013) (NL, RLS, JS) - Spelunky, Hearthstone, Speedrunners, The Metagame + Trivia, Spelunky, More Speedrunners
+[00] - (September 19, 2013) (NL, RLS, JS) - Trine 2, Game Dev Tycoon, Trivia, Spelunky - [Twerk out/Waterspit]
+[00] - (September 18, 2013) (NL, RLS, JS, MALF) - Spelunky, Sonic All-Star Racing, Trivia, More Spelunky - [Penny Pincher]
+[00] - (September 16, 2013) (NL, RLS, JS) - Spelunky, Sonic All-Stars Racing, Trivia, More Spelunky
+[00] - (September 12, 2013) (NL, RLS, JS) - Dark Souls invasions, BOI, Trivia, Spelunky
+[00] - (September 11, 2013) (NL, RLS, JS) - Spelunky, Volgarr the Viking, Trivia, More Spelunky
+[00] - (September 9, 2013) (NL, RLS, JS) - Spelunky, BOI, Trivia, More Spelunky [Villainous Fish]
+[00] - (September 5, 2013) (NL, RLS, JS) - Dark Souls invasions, FF 2010, Trivia, Spelunky [Cock Knee]
+[00] - (September 4, 2013) (NL, RLS, JS w/ Ohm) - Spelunky, Trivia, Splinter Cell: Blacklist, More Spelunky
+[00] - (August 26, 2013) part 01-2 (NL, RLS, JS) - Spelunky, War of the Vikings, Trivia, More Spelunky [Tom Cruise Crazy]
+[00] - (August 22, 2013) (NL, RLS, JS w/ Ohm) - Spelunky, Splinter Cell: Black Ops, Trivia, More Spelunky
+[00] - (August 21, 2013) (NL, RLS, JS w/ Ohm) - Spelunky, Divekick, Trivia, Splinter Cell: Blacklist
+[00] - (August 19, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Spelunky
+[00] - (August 15, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Risk of Rain, Spelunky
+[00] - (August 14, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Spelunky
+[00] - (August 12, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Spelunky [Donger Dealer]
+[00] - (August 1, 2013) (NL, RLS, JS w/ Kate) - Spelunky, Trivia, Worms Rev
+[00] - (July 31, 2013) (NL, RLS, JS w/ Kate) - Spelunky, Trivia, FF 2010 [JSmith Town, Platinum Fox]
+[00] - (July 29, 2013) (NL, RLS, JS w/ Ohm) - Spelunky, Trivia, Payday 2
+[00] - (July 25, 2013) (NL, RLS, JS w/ Kate) - Dark Souls invasions, Trivia, The Price is Right
+[00] - (July 24, 2013) (NL, RLS, JS w/ Kate, MALF) - Dark Souls invasions, Spelunky, Trivia, FF 2010
+[00] - (July 22, 2013) (NL, RLS, JS w/ Mike Bithell) - Dark Souls invasion, Trivia, FF 2010 [Necromercial]
+[00] - (July 18, 2013) (NL, RLS, JS w/ Kate) - Dark Souls invasions, Trivia, FF 2010
+[00] - (July 17, 2013) part 01-2 (NL, RLS, JS w/ Kate) - Dark Souls invasions, Trivia, FF 2010 [Ricky Mountain]
+[00] - (July 15, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Super Mutant Ninja Turtles IV: Turtles in Time race, Super Meat Boy race
+[00] - (July 11, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Megaman X race
+[00] - (July 8, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Super Mario Bros. 3 race
+[00] - (July 4, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls invasions, Trivia, Runner 2 race
+[00] - (July 3, 2013) (NL, RLS, JS w/ Kate, Ohm, rob) - Dark Souls Invasions, Trivia, iSketch
+[00] - (July 1, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Super Meat Boy race
+[00] - (June 20, 2013) (NL, RLS, JS w/ Ohm, rob, Pixel) - Dark Souls invasions, Trivia, iSketch
+[00] - (June 19, 2013) (NL, RLS, JS w/ Ohm, rob) - Dark Souls invasions, Skulls of the Shogun, Trivia, iSketch
+[00] - (June 17, 2013) (NL, RLS, JS w/ Ohm, Green) - Dark Souls invasions, Scrolls, Trivia, Aborted attempt to play Arma III, CS:GO
+[00] - (June 13, 2013) (NL, RLS, JS w/ Ohm, rob, LGW) - Dark Souls invasions, Trivia, iSketch
+[00] - (June 12, 2013) (NL, RLS, JS w/ Ohm, rob, RPG, Mathas) - Dark Souls invasions, Mount Your Friends, Trivia, Boardgame online
+[00] - (June 10, 2013) (NL, RLS, JS w/ Ohm, rob) - Dark Souls invasions, Trivia, DOTA 2
+[00] - (June 5, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls, SpyParty, Trivia, War Thunder
+[00] - (June 3, 2013) (NL, RLS, JS w/ Green, rob) - Dark Souls, Gunpoint, Trivia, Cards Against Humanity
+[00] - (May 30, 2013) (NL, RLS, JS w/ Ohm, rob, Green) - Dark Souls, Trivia, iSketch
+[00] - (May 29, 2013) (NL, RLS, JS) - Dark Souls Invasions, Trivia, Crusader Kings II - The Old Gods
+[00] - (May 27, 2013) (NL, RLS, JS w/ Ohm, rob) - Dark Souls invasions, Trivia, Dota 2
+[00] - (May 23, 2013) (NL, RLS, JS w/ Kate, Ohm) - Dark Souls invasions, SpyParty, Trivia, Dota 2
+[00] - (May 22, 2013) (NL, RLS, JS w/ Kate, Ohm, rob, Green) - Dark Souls Invasions, Towerfall, Trivia, iSketch
+[00] - (May 20, 2013) (NL, RLS, JS w/ Kate, Ohm, Green) - Dark Souls invastions, Paranautical Activity, Trivia, DOTA 2
+[00] - (May 16, 2013) (NL, RLS w/ Ohm, rob, Pixel) - Dark Souls soul level 01 play, Trivia with Ohmwrecker, iSketch
+[00] - (May 15, 2013) (NL, RLS, Ohm) - Dark Souls soul level 01 play, Trivia, Sanctum 2, Counterstrike
+[00] - (May 13, 2013) (NL, RLS w/ Ohm, Mathas, rob) - Dark Souls invasions, Project Zomboid, Trivia, iSketch
+[00] - (May 2, 2013) (NL, RLS, JS w/ Ohm, RPG, Green) - Dark Souls soul level 01 play, Don't Starve, Trivia, Counterstrike: Global Offensive
+[00] - (May 1, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls invasions, Rogue Legacy, Trivia, Leviathan Warships
+[00] - (April 29, 2013) (NL, RLS, JS w/ Ohm, rob, Mathas, Green) - Dark Souls invasions, Game Dev Tycoon, Trivia, iSketch
+[00] - (April 25, 2013) (NL, RLS, JS w/ rob, Green) - Ask me anything, Dark Souls invasions, Trivia, Cards Against Humanity
+[00] - (April 24, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls invasions, Trivia, Battle block theater
+[00] - (April 22, 2013) (NL, RLS, JS w/ Ohm, rob, Green, RPG) - Ask me anything, Dark Souls Invasions, Trivia, Boardgame online, iSketch
+[00] - (April 18, 2013) (NL, RLS w/ RPG, Green, Ohm, rob) - Dark Souls invasions, La Mulana, Trivia, Cards Against Humanity
+[00] - (April 17, 2013) (NL, RLS, JS w/ Green, Ohm) - Dark Souls invasions, Trivia, Boardgame online
+[00] - (April 15, 2013) (NL, RLS, JS w/ Ohm, Green, rob, Mathas, MALF) - Dark Souls Invasions, Risk of Rain, Trivia, iSketch
+[00] - (April 11, 2013) (NL, RLS, JS w/ Green, rob) - Dark Souls Invasions, Trivia, Cards Against Humanity
+[00] - (April 10, 2013) (NL, RLS, JS w/ Green, Ohm) - Dark Souls DLC, invasions, Trivia, Ask me anything, DOTA 2, iSketch
+[00] - (April 8, 2013) (NL, RLS, JS w/ Ohm, RPG, MALF) - Dark Souls DLC, Trivia, Strange Loves Vampire Boyfriends, Trackmania 2
+[00] - (April 4, 2013) (NL, RLS, JS w/ Green, Ohm) - Dark Souls DLC, Trivia, Cards Against Humanity
+[00] - (April 3, 2013) (NL, RLS, JS w/ MALF, Ohm) - Dark Souls DLC, Trivia, Cards Against Humanity
+[00] - (April 1, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls Invasions, Trivia, iSketch, Ask me anything on Twitter
+[00] - (March 28, 2013) (NL, RLS, JS w/ RPG, Ohm) - Dark Souls Invasions, Trivia, Cards Against Humanity
+[00] - (March 27, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls Invasions, Trivia, Arma III, Ask me anything on Twitter
+[00] - (March 18, 2013) (NL, RLS, JS) - Dark Souls Invasions, Trivia, Rollercoaster Tycoon, More Dark Souls Invasions, Ask me anything on Twitter
+[00] - (March 14, 2013) (NL, RLS, JS w/ MALF) - Dark Souls Invasions, Trivia, Worms Rev, Ask me anything on Twitter
+[00] - (March 13, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls Invasions, Trivia, The Showdown Effect
+[00] - (March 11, 2013) (NL, RLS, JS w/ Ohm) - Dark Souls Invasions, Trivia, More Dark Souls Invasions, Arma III, Ask me anything on Twitter
+[00] - (March 6, 2013) (NL, RLS, JS) - Dark Souls invasions, Trivia, Tomb Raider, Ask me anything on Twitter
+[00] - (March 4, 2013) (NL, RLS, JS) - Delver's Drop with Ryan Baker and Ryan Burrell, Dark Souls, Trivia, More Dark Souls, Ask me anything on Twitter
+[00] - (February 28, 2013) (NL, RLS, JS) - Dark Souls, Trivia, Trials Evolution, Ask me anything on Twitter
+[00] - (February 27, 2013) (NL, Kate) - Dark Souls, Trivia, More Dark Souls, Ask me anything on Twitter
+[00] - (February 25, 2013) (NL, Solo) - Runner 2, Super House of Dead Ninjas, Trivia, Hitman: Bloodmoney, Ask me anything on Twitter
