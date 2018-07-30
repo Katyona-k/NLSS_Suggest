@@ -8,7 +8,7 @@ z7 = '\nAre you interested?: '
 
 h0 = 'Okay, Changing selection.'
 h1 = 'Okay, Grabbing info from DB.\n'
-h2 = "Choose perspective\n 1 - NL\n 2 - RL\n\n>: "
+h2 = "Choose perspective\n1 - NL\n2 - RL\n\n>: "
 h3 = '\nwww.youtube.com/results?search_query=Northernlion+live+super+show+['
 h4 = '\nwww.youtube.com/results?search_query=Rockleesmile+"%5B'
 h5 = '\nWrite [01] to file?: '
